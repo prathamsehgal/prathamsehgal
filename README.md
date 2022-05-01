@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prathamsehgal
+- 👋 Hi, I’m Pratham Sehgal
 - 👀 I’m interested in Data and its Analysis
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to work in a project based on Machine learning
